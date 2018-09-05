@@ -534,5 +534,5 @@ public class Gestion_des_notes extends javax.swing.JFrame {
     private javax.swing.JTextField txtnot;
     private javax.swing.JTextField txtpre;
     private javax.swing.JTextField txtre;
-    // End of variables declaration                   
+    // End of variable declaration                   
 }
