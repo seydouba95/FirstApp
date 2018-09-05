@@ -26,7 +26,8 @@ import java.sql.SQLException;
         }
         try{
          con=DriverManager.getConnection("jdbc:mysql://localhost:3306/etude","root","");
-        }catch(SQLException e){ System.out.println(e);}
+        }catch(SQLException e){ System.out.println(e);
+                              }
     }
             
         Connection obtenirconnexion(){
